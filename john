@@ -1,0 +1,7 @@
+#Persistent
+SetTimer, ClickLoop, 100
+Return
+
+ClickLoop:
+Click
+Return
